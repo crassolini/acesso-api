@@ -72,3 +72,6 @@ https://giovanicassiano.medium.com/lumen-laravel-8-0-com-jwt-authentication-9d93
 https://blog.renatolucena.net/post/laravel-crie-uma-api-autenticada-jwt-com-lumen
 https://medium.com/@emmanix2002/improved-error-handling-in-your-lumen-api-9ec4f6ea4a2
 https://jwt-auth.readthedocs.io/en/develop/quick-start/
+https://www.laravelia.com/post/laravel-10-jwt-complete-api-authentication-tutorial
+https://www.youtube.com/watch?v=QhzrVlPm6wk
+https://laraveldaily.com/post/laravel-api-error-html-json-how-to-fix
